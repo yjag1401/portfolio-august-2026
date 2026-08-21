@@ -1,13 +1,16 @@
 # Project Status
 
-**Current Phase:** Product Discovery & Requirements
-**Current Objective:** Define V1 Scope
+**Current Phase:** Iterative Feature Development
+**Current Objective:** V1 Foundation & Hero Section
 
 ## Tasks
 - [x] Initial project setup
-- [ ] Review and finalize V1 Product Scope
-- [ ] Determine Tech Stack & Architecture
-- [ ] Setup React framework
+- [x] Review and finalize V1 Product Scope
+- [x] Approve ADR-001 (Tech Stack)
+- [x] Initialize Next.js + TypeScript framework
+- [ ] Create `feature/hero-section` branch
+- [ ] Implement Hero Component
+- [ ] Review & Merge Hero Component
 
 ## Blockers
 - None
