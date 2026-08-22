@@ -11,8 +11,11 @@
 - [x] Create `feature/hero-section` branch
 - [x] Implement Hero Component
 - [x] Review & Merge Hero Component
-- [ ] Create `feature/about-section` branch
-- [ ] Implement About Component
+- [x] Create `feature/about-section` branch
+- [x] Implement About Component
+- [x] Review & Merge About Component
+- [ ] Create `feature/projects-section` branch
+- [ ] Implement Projects Component (using Supabase if applicable)
 
 ## Blockers
 - None
